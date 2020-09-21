@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aiforall-dashboard/precache-manifest.190e17aa3e2b81403d84e57dced2dc5d.js"
+  "/aiforall-dashboard/precache-manifest.0e9d810cc7787a37293ba105eb767038.js"
 );
 
 self.addEventListener('message', (event) => {
