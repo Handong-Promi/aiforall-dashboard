@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d368bd9ef9f6a37402b806c03b836385",
+    "revision": "5a22ba1b2bc966df2b2d06826c9d14a7",
     "url": "/aiforall-dashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aiforall-dashboard/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "6ac4d4b8f85ed08cca0b",
+    "revision": "9af99956839297380066",
     "url": "/aiforall-dashboard/static/css/main.312af0d3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aiforall-dashboard/static/js/2.45b6fb5c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ac4d4b8f85ed08cca0b",
-    "url": "/aiforall-dashboard/static/js/main.9458c2fb.chunk.js"
+    "revision": "9af99956839297380066",
+    "url": "/aiforall-dashboard/static/js/main.87e43994.chunk.js"
   },
   {
     "revision": "05a17ac3ec010db1661f",
