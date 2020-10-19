@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aiforall-dashboard/static/css/main.312af0d3.chunk.css",
-    "main.js": "/aiforall-dashboard/static/js/main.1b0b527a.chunk.js",
-    "main.js.map": "/aiforall-dashboard/static/js/main.1b0b527a.chunk.js.map",
+    "main.js": "/aiforall-dashboard/static/js/main.9458c2fb.chunk.js",
+    "main.js.map": "/aiforall-dashboard/static/js/main.9458c2fb.chunk.js.map",
     "runtime-main.js": "/aiforall-dashboard/static/js/runtime-main.8f353ad7.js",
     "runtime-main.js.map": "/aiforall-dashboard/static/js/runtime-main.8f353ad7.js.map",
     "static/css/2.de424728.chunk.css": "/aiforall-dashboard/static/css/2.de424728.chunk.css",
     "static/js/2.45b6fb5c.chunk.js": "/aiforall-dashboard/static/js/2.45b6fb5c.chunk.js",
     "static/js/2.45b6fb5c.chunk.js.map": "/aiforall-dashboard/static/js/2.45b6fb5c.chunk.js.map",
     "index.html": "/aiforall-dashboard/index.html",
-    "precache-manifest.c9f60b6d1cf8c5888f992b5639fc02a6.js": "/aiforall-dashboard/precache-manifest.c9f60b6d1cf8c5888f992b5639fc02a6.js",
+    "precache-manifest.aa402b0a3b86c9ece2046aad61280ba4.js": "/aiforall-dashboard/precache-manifest.aa402b0a3b86c9ece2046aad61280ba4.js",
     "service-worker.js": "/aiforall-dashboard/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/aiforall-dashboard/static/css/2.de424728.chunk.css.map",
     "static/css/main.312af0d3.chunk.css.map": "/aiforall-dashboard/static/css/main.312af0d3.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.45b6fb5c.chunk.js",
     "static/css/main.312af0d3.chunk.css",
-    "static/js/main.1b0b527a.chunk.js"
+    "static/js/main.9458c2fb.chunk.js"
   ]
 }
